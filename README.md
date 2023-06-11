@@ -45,7 +45,7 @@ Python, Pandas, Numpy, Selenium, Power BI
 <code>[Notebook](2%20-%20Project%20Car%20Price%20Predict/Project%20Car%20Price%20Predict.ipynb)</code>
 
 ### - Описание - 
-Predict the price of the car taking into account the characteristics of the car. The model should improve the speed of car valuation and optimize the acceptance of cars for resale. Three datasets, compiled by different methods (manual and parsing) and in different years (from 2014 to 2021) were received for input. The project includes the following steps: data cleaning and preprocessing, filling in missing values, EDA (exploratory data analysis), hypothesis testing (F-critical, T-critical and p-value), statistical significance analysis (One-Way Anova), feature engineering, data visualization, experiment on five ML models.
+Предсказание цены автомобиля с учетом характеристик авто. Модель должна улучшить скорость оценки автомобиля и оптимизировать прием авто на перепродажу. На вход получены 3 датасета, составленных разными способами (ручным и пасрингом) и в разные года (с 2014 по 2021 года). Проект включает в себя следующие шаги: очистка и предобработка данных, заполнение недостающих значений, EDA (exploratory data analysis), проверка гипотез (F-критическая, T-критическая и p-value), анализ статистической значимости (One-Way Anova), feature engineering, визуализация данных, эксперимент на пяти моделей МО.
 
 ### - Навыки - 
 data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
@@ -54,7 +54,7 @@ data cleaning, data analysis, descriptive statistics, central limit theorem, hyp
 Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
 
 ### - Результаты -
-A script for optimizing preprocessing. Model for predicting car prices.
+Скрипт для оптимизации предобработки. Модель для предсказаний цен на авто.
 
 </br>
 
@@ -71,7 +71,7 @@ A script for optimizing preprocessing. Model for predicting car prices.
 <code>[V7003 (SQL)](3%20-%20Report%20Automation%20Script/v7003_sql.sql)</code>
 
 ### - Описание - 
-A family of scripts for automating reports on closed and open trades, deposits and withdrawals, and hedge fund information for a national bank. A bot for sending reports to everyone assigned.
+Скрипты для автоматизации семейства отчетов. Отчетность содержит информацию о закрытых и открытых сделках, пополнениях и снятиях, и информация о хедж-фонде. Отчеты участвуют в рассылке через телеграмм бот всем назначенным и передаются в национальный банк.
 
 ### - Навыки - 
 SQL Query, report automation.
@@ -80,7 +80,7 @@ SQL Query, report automation.
 Python, Pandas, Numpy, mysql.connector, openpyxl, MySQL.
 
 ### - Результаты -
-Creation of a script to automate reporting.
+Сформированные запросы и скрипты для автоматизации отчетов.
 
 </br>
 
