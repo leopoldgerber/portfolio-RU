@@ -94,8 +94,8 @@ Python, Pandas, Numpy, mysql.connector, openpyxl, MySQL.
 <code>[Power BI](4%20-%20Sales%20Management/Sales%20Management%20Dashboard.pbix)</code>
 
 ### - Описание - 
-To increase profits by prioritizing the placement of goods in the storage area, it is necessary to set the profitability of goods by region. Additionally, the cost of transporting goods is reduced.
-For this purpose, a request was formed to unload the data. Collection, analysis and preprocessing was done using the python programming language. Dashboards in Power BI and the created web service were prepared.
+Чтобы увеличить прибыль за счет приоритетного размещения товаров в складской зоне необходимо установить прибыльность товаров по регионам. Дополнительно сокращаются расходы на транспортировку товаров.
+Для этого был сформирован запрос для выгрузки данных. Сбор, анализ и предобработка были произведены с помощью языка программирования python. Подготовлены дашборды в Power BI и созданном веб-сервисе. 
 
 ### - Навыки - 
 data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
@@ -105,7 +105,7 @@ SQL (SSMS, clearing tables), Python (data preprocessing, data preparation for th
 Power BI (Creating an interactive dashboard), Heroku (Upload the Plotly Dash App)
 
 ### - Результаты - 
-Automated data collection, preprocessing of received data, updating dashboards for visualization.
+Автоматизированный сбор данных, предобработка полученных данных, обновление дашбордов для визуализации.
 
 </br>
 
@@ -117,7 +117,7 @@ Automated data collection, preprocessing of received data, updating dashboards f
 <code>[Notebook 1: Analysis & Preprocessing](5%20-%20Recommendation%20System/1%20-%20Analysis%20&%20Preprocessing.ipynb)</code> <code>[Notebook 2: ML Models](5%20-%20Recommendation%20System/2%20-%20ML%20Models.ipynb)</code>
 
 ### - Описание - 
-The goal of the task is to increase profits (by 20%) by selling additional products on the online store platform. The available files include a dataset with historical events on the platform, hashed product property data and a category tree. To solve the problem the data were analyzed, processed and prepared for ML models. Six models were involved in the experiments.
+Маркетплейс обратился в агентство с задачей увеличить прибыль на 20% за счет продажи дополнительных продуктов на платформе интернет-магазина. Имеющиеся файлы включают набор данных с историческими событиями на платформе, хешированные данные о свойствах товара и дерево категорий. Для решения поставленной задачи данные были проанализированы, обработаны и подготовлены для ML-моделей. В эксперименте было задействовано шесть моделей МО.
 
 ### - Навыки - 
 data cleaning, data analysis, descriptive statistics, data visualization, feature engineering, machine learning, web-service, docker container
@@ -126,7 +126,7 @@ data cleaning, data analysis, descriptive statistics, data visualization, featur
 Python (data preprocessing, data preparation, feature engineering, ML models testing, pandas, numpy, matplotlib), Flask (web-service), Docker (containerization)
 
 ### - Результаты - 
-Using technical metrics (MAP@K and RMSE), a model was selected for recommendations, and a cold start strategy was created. The model was wrapped in a web service and containerized. The map metric showed a result of 33%. The task is completed.
+С помощью результатов технических метрик (MAP@K and RMSE) была выбрана модель (из тестируемых). Подготовлена стратегия холодного старта. Модель была обернута в веб-сервис и контейнеризированные. Результат MAP@K метрики составляет 33%.
 
 </br>
 
