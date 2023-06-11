@@ -1,4 +1,4 @@
-# Leopold Gerber - Data Analyst | Data Scientist Portfolio
+# Леопольд Гербер - Data Analyst | Data Scientist Portfolio
 ## Обо мне
 Привет, меня зовут Леопольд Гербер и являюсь Аналитиком данных/Дата сайентистом.
 
