@@ -54,6 +54,6 @@ Additional information welcomed.
 
 ## Plotly Dash
 ### - Sales Overview -
-![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
+![Plotly Dash](https://github.com/leopoldgerber/portfolio-RU/assets/114569329/1052321d-70dc-44f9-861c-28a50a6ff07b)
 
 [Scroll up](#sales-management)
