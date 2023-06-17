@@ -5,13 +5,13 @@
 <code>[3 - DB Upload](3%20-%20DB%20Upload.py)</code>
 <code>[Power BI](Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
 
-- [1 - Task information](#--objective--)
+- [1 - Информация](#--информация--)
 - [2 - Examples from the parsing script](#examples-from-the-parsing-script)
 - [3 - Power BI](#power-bi)
 
 <br>
 
-### - Objective -
+### - Информация -
 Analysis of competitor traffic by country. Search for countries for further growth. Analysis of the popularity of the services offered.
 
 ### - Expected result -
