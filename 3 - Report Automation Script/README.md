@@ -7,41 +7,40 @@
 <code>[V7001 (SQL)](v7001_sql.sql)</code>
 <code>[V7003 (SQL)](v7003_sql.sql)</code>
 
-- [1 - Task information](#--objective--)
-- [2 - Examples of scripts and queries](#examples-of-scripts-and-queries)
+- [1 – Информация](#--информация--)
+- [2 – Примеры скриптов и запросов](#примеры-скриптов-и-запросов)
 
 <br>
 
-### - Objective -
-Eliminate the need to hire an employee to manually assemble reports on weekends. 
+### - Информация -
+Отказ от найма сотрудников для составления отчета в выходные/праздничные дни. Автоматизация отчета. 
 
-### - Expected result -
-A family of scripts for automating reports on closed and open trades, deposits and withdrawals, and hedge fund information for a national bank. A bot for sending reports to everyone assigned.
+### - Ожидаемый результат -
+Семейство скриптов для автоматизации отчетности закрытых и открытых сделок (торговые операции), пополнений и снятий (балансовые операции), информация о хедж-фонде для национального банка. Телеграмм бот для рассылки отчетности назначенным участникам.
 
-### - Technical tasks -
-- Data collection
-- Data preprocessing
-- Feature engineering
-- Report automation
+### - Технические задачи -
+- Сбор данных
+- Предобработка данных
+- Создание факторов
+- Автоматизация отчетности
 
 ### - NOTE -
-The project contains 4 scripts, each of which performs its individual assembly at different reporting times (weekly and monthly). All external queries are written individually according to the tasks of the report. The directory contains 2 shortened queries. Due to commercial confidentiality, the data has been changed and key points have been removed. The reduction does not affect the skills shown.
-
+Данные сокращены и обрезаны.
 
 <br>
 
-## Examples of scripts and queries
-### Script
+## Примеры скриптов и запросов 
+### Скрипты
 
-The <b>mysql</b> library for connecting to a database. Using the <b>configuration</b> file to further connect all scripts to the same login source and due to the confidentiality of login data. Using an <b>external query</b> for convenient editing.
+Подключение к БД с помощью <b>mysql</b> библиотеки. Использование конфигурационного файла для безопасного подключения. Использование <b>внешних запросов</b> для удобства редактирование.
 
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b916f91e-23ec-4957-9709-b15cc438a107)
 
 <br>
 
-### Query
-Create and fill additional tables in the test base to optimize performance.
+### Запросы
+Оптимизации производительности для создания таблиц и наполнение их данными.
 
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/27757d60-9db4-42ce-9f95-5eb4e5d06991)
 
-[Scroll up](#report-automation-script)
+[В начало](#report-automation-script)
