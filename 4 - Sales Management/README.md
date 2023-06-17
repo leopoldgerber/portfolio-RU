@@ -4,7 +4,7 @@
 <code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
 <code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
 
-- [1 - Информация](#-- информация --)
+- [1 - Информация](#--информация--)
 - [2 – Примеры из ноутбука](#примеры-из-ноутбука)
 - [3 - Power BI](#power-bi)
 - [4 - Plotly Dash](#plotly-dash)
