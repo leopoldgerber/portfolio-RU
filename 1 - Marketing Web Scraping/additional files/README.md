@@ -1,7 +1,7 @@
-# Setting up additional files
+# Подготовка дополнительных файлов
 
 ### <code>save_config.py</code>
-Create and save a json file that contains database configuration. Should contains:
+Создает и сохраняет json файл с данными для подключения к БД. Необходимая информация:
 - Username
 - Password
 - Host
@@ -9,4 +9,4 @@ Create and save a json file that contains database configuration. Should contain
 - Database
 
 ### <code>exception_list.py</code>
-Since the dataframe load script processes columns before adding them to the database - it's good to have an exception list handy that cancels processing of selected columns. For example, if the "user duration" column contains the ":" character, we want to keep the character for further processing rather than replace it. To do this, we create an exception list or enter the columns manually if there is no exception.
+Так как скрипт загрузки данных в БД содержит обработку типов данных столбцов, для верного добавления полей в БД – хорошо иметь под рукой список исключений, отменяющий обработку выбранных столбцов. Например, столбец «время прибывания на странице» содержит символ ":", мы хотим его сохранить для будущей обработки, а не удалять или заменять. Чтобы это сделать мы создаем список исключений. При отсутствии списка пользователю будет предложен ручной ввод.
